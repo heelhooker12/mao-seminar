@@ -11,7 +11,7 @@ https://elmas3.github.io/mao-seminar/
 三郎
 四郎
 花子
-
+ジョージ
 
 # ディレクトリ構成
 ```
