@@ -11,10 +11,7 @@ https://elmas3.github.io/mao-seminar/
 次郎
 三郎
 四郎
-<<<<<<< HEAD
 花子
-=======
->>>>>>> afefd59 (メンバー追加)
 
 # ディレクトリ構成
 ```
